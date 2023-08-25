@@ -61,4 +61,5 @@ def sample_run():
     game = Game(board=board, players=players, dice=SixSideDice())
     game.play()
 
+
 sample_run()
